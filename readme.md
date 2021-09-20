@@ -32,4 +32,10 @@
 
 <hr>
 
-[AZ-900](AZ-900.md)
+[AZ-900](notes/AZ-900.md)
+
+[DP-900](notes/DP-900.md)
+
+[AI-900](notes/AI-900.md)
+
+[SC-900](notes/SC-900.md)

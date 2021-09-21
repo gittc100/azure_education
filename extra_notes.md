@@ -1,0 +1,1 @@
+[golang cloud functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers)

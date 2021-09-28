@@ -39,3 +39,18 @@
 [AI-900](notes/AI-900.md)
 
 [SC-900](notes/SC-900.md)
+
+## Tools
+
+### Azure Data Studio
+
+[Get Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
+
+### Azure Storage Explorer
+
+[Get Studio](https://azure.microsoft.com/en-us/features/storage-explorer/#overview)
+
+## Compatability
+
+[golang cloud functions](https://docs.microsoft.com/en-us/azure/azure-functions/functions-custom-handlers)
+

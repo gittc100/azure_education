@@ -42,6 +42,18 @@
 
 ## Tools
 
+### Azure Active Directory
+
+[Azure AD](https://azure.microsoft.com/en-us/services/active-directory/#features)
+
+### Azure Security Center
+
+[Azure Security Center](https://azure.microsoft.com/en-us/services/security-center/#overview)
+
+### Zero Trust maturity model assessment
+
+[Zero Trust maturity model assessment](https://www.microsoft.com/en-us/security/business/zero-trust/maturity-model-assessment-tool?activetab=solution-wizard%3aprimaryr1)
+
 ### Azure Data Studio
 
 [Get Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)

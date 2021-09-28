@@ -54,6 +54,10 @@
 
 [Zero Trust maturity model assessment](https://www.microsoft.com/en-us/security/business/zero-trust/maturity-model-assessment-tool?activetab=solution-wizard%3aprimaryr1)
 
+### Threat Modeling Tool (Windows Only)
+
+[Threat Modeling Tool](https://docs.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
+
 ### Azure Data Studio
 
 [Get Studio](https://docs.microsoft.com/en-us/sql/azure-data-studio/download-azure-data-studio?view=sql-server-ver15)
